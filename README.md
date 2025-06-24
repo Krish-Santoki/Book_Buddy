@@ -1,0 +1,1 @@
+# BOOK BUDDY is a full stack JAVA web application which is used to sell or buy new as well as old books.
