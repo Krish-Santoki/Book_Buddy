@@ -1,6 +1,6 @@
 # 📚 Book Buddy
 
-A full-stack Java web application where users can **buy and sell new and used books** online. Built with **Spring Boot**, **Thymeleaf**, and **MySQL**, it allows book listings, search, cart functionality, and basic user authentication.
+A full-stack Java web application where users can **buy and sell new and used books** online. Built with **Core JAVA**, and **MSSQL**, it allows book listings, search, cart functionality, and basic user authentication.
 
 ---
 
